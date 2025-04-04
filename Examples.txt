@@ -1,4 +1,4 @@
-### **SuperCodeX: Revised Syntax Using Code Constructs & Commands**  
+### **SuperCodeX: Syntax Using Code Constructs & Commands**  
 
 To make the language more practical while retaining its efficiency, we'll replace the symbols with **code constructs, macros, and execution tokens**.  
 
@@ -6,16 +6,16 @@ To make the language more practical while retaining its efficiency, we'll replac
 
 ## **Revised Syntax Design**  
 
-| **Concept** | **Revised Syntax** | **Old Symbol-Based Syntax** |  
-|------------|-------------------|---------------------------|  
-| **Operation Start** | `CMD_EXEC` | `⦿` |  
-| **Execution Flow** | `FLOW_TO` | `➤` |  
-| **Addition Operation** | `OP_ADD` | `⊕` |  
-| **Subtraction Operation** | `OP_SUB` | `⊖` |  
-| **Conditional Execution** | `COND_IF` | `↯` |  
-| **Parallel Execution** | `EXEC_PARALLEL` | `⇆` |  
+| **Concept** | **Revised Syntax** | 
+|------------|-------------------|  
+| **Operation Start** | `CMD_EXEC` |  
+| **Execution Flow** | `FLOW_TO` |  
+| **Addition Operation** | `OP_ADD` |   
+| **Subtraction Operation** | `OP_SUB` |   
+| **Conditional Execution** | `COND_IF` |  
+| **Parallel Execution** | `EXEC_PARALLEL` |   
 | **Distributed Execution** | `EXEC_DISTRIBUTE` | `⤬` |  
-| **Deferred Execution** | `EXEC_DEFER` | `⤓` |  
+| **Deferred Execution** | `EXEC_DEFER` | 
 | **Memory Register** | `REG` | `#` |  
 | **Batch Execution** | `GROUP` | `{}` |  
 
